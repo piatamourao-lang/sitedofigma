@@ -8,7 +8,7 @@
 body {
     background: white;
     color: #191A23;
-    font-family: Arial, sans-serif;
+    font-family: 'Poppins', sans-serif;
     line-height: 1.5;
 }
 
@@ -17,8 +17,6 @@ body {
     margin: auto;
     padding: 40px 20px;
 }
-
-
 
 .topo {
     display: flex;
@@ -56,8 +54,6 @@ body {
     border-radius: 10px;
     white-space: nowrap;
 }
-
-
 
 .banner {
     display: flex;
@@ -103,8 +99,6 @@ body {
     height: auto;
 }
 
-
-
 .secao-titulo {
     display: flex;
     align-items: center;
@@ -124,8 +118,6 @@ body {
     font-size: 32px;
     line-height: 1.2;
 }
-
-
 
 .cards {
     display: grid;
@@ -203,8 +195,6 @@ body {
     max-width: 180px;
     height: auto;
 }
-
-
 
 .saiba-mais {
     display: flex;
